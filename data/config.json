@@ -69,5 +69,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "domain": "https://hg-ddddc.netlify.app"
 }
